@@ -1,4 +1,8 @@
 # yaml-payload-for-ruoyi
+**分析文章**
+
+https://xz.aliyun.com/t/10651
+
 **注入方法：**  
 把jar放到系统可以访问的地方，在定时任务创建新的定时任务，再立即执行一次即可
 ```java
